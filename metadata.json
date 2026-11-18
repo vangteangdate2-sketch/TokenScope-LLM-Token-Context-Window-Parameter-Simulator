@@ -1,0 +1,8 @@
+{
+  "name": "TokenScope — LLM Token, Context Window & Parameter Simulator",
+  "description": "Interactive AI LLM token visualizer, context window analyzer, sampling parameter simulator, and live Gemini API playground with offline editing support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
